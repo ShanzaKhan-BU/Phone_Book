@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">Phone Book</string>
+    <string-array name = "name">
+
+        <item>Alia Jan</item>
+        <item>Amina Durrani</item>
+        <item>Benish Chohan</item>
+        <item>Bena Khala</item>
+        <item>Chachi Jan</item>
+        <item>Cat Doctor</item>
+        <item>Durre Mahwish</item>
+        <item>Durriya Satti</item>
+        <item>Erum Naz</item>
+        <item>Ehtishal Anjum</item>
+        <item>Faisal Imran</item>
+        <item>Farkhanda Javed</item>
+        <item>Guriya Rani</item>
+        <item>Gulnar Khan</item>
+        <item>Hadiya Ahmed</item>
+        <item>Huma Mustansar</item>
+        <item>Iffat Ameer</item>
+        <item>Ibtihaj Fatima</item>
+        <item>Jamila Kamran</item>
+        <item>Jabeen Tariq</item>
+        <item>Khirad Jabeen</item>
+        <item>Kausar Satti</item>
+        <item>Laila Izhar</item>
+        <item>Lubna Yasir</item>
+        <item>Masooma Tahir</item>
+        <item>Maryam Khan</item>
+        <item>Nadia Shaheen</item>
+        <item>Noor Ali</item>
+        <item>Omaima Amjad</item>
+        <item>Omer Bhatti</item>
+        <item>Pakeeza Inam</item>
+        <item>Pari Gul</item>
+        <item>Qudsia Munawar</item>
+        <item>Qurratulain Haider</item>
+        <item>Radwa Saqi</item>
+        <item>Ruqaiya Fatima</item>
+        <item>Salwa Khan</item>
+        <item>Savera Nadeem</item>
+        <item>Tayyaba Alam</item>
+        <item>Tasneem Jan</item>
+        <item>Uzma Qureshi</item>
+        <item>Undaleeb Butt</item>
+        <item>Veena Malik</item>
+        <item>Vaniya Khurram</item>
+        <item>Wafa Wisaal</item>
+        <item>Wajeeha Rauf</item>
+        <item>Xeema Yousufzai</item>
+        <item>Xtra Sim</item>
+        <item>Yasmin Fayyaz</item>
+        <item>Yusra Tarar</item>
+        <item>Zainab Ali</item>
+        <item>Zakiyya Munawar</item>
+
+    </string-array>
+    <string-array name = "num">
+
+        <item>111111111</item>
+        <item>111111111</item>
+        <item>111111111</item>
+        <item>111111111</item>
+        <item>111111111</item>
+        <item>111111111</item>
+        <item>111111111</item>
+        <item>111111111</item>
+        <item>111111111</item>
+        <item>111111111</item>
+        <item>111111111</item>
+        <item>222222222</item>
+        <item>222222222</item>
+        <item>222222222</item>
+        <item>222222222</item>
+        <item>222222222</item>
+        <item>222222222</item>
+        <item>222222222</item>
+        <item>222222222</item>
+        <item>222222222</item>
+        <item>222222222</item>
+        <item>333333333</item>
+        <item>333333333</item>
+        <item>333333333</item>
+        <item>333333333</item>
+        <item>333333333</item>
+        <item>333333333</item>
+        <item>333333333</item>
+        <item>333333333</item>
+        <item>333333333</item>
+        <item>333333333</item>
+        <item>333333333</item>
+        <item>333333333</item>
+        <item>333333333</item>
+        <item>333333333</item>
+        <item>333333333</item>
+        <item>444444444</item>
+        <item>444444444</item>
+        <item>444444444</item>
+        <item>444444444</item>
+        <item>444444444</item>
+        <item>444444444</item>
+        <item>444444444</item>
+        <item>444444444</item>
+        <item>444444444</item>
+        <item>444444444</item>
+        <item>444444444</item>
+        <item>444444444</item>
+        <item>444444444</item>
+        <item>444444444</item>
+        <item>444444444</item>
+        <item>444444444</item>
+
+    </string-array>
+</resources>

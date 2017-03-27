@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="changingColor1">#c1ca12</color>
+    <color name="changingColor2">#832445</color>
+    <color name="changingColor3">#2fdc1b</color>
+    <color name="changingColor4">#12d6bf</color>
+    <color name="changingColor5">#c6bfc1</color>
+    <color name="changingColor6">#ac939c</color>
+</resources>
